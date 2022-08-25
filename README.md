@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Amasterluan">
+  <a href="https://github.com/Amasterlua">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Amasterluan&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amasterluan&theme=github_dark&&layout=compact"/>
   </a>
