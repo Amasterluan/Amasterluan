@@ -1,7 +1,6 @@
 <div>
   <h1 align="center">Olá, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/amasterluan/"><i>Luan Moreira</i></a>! 💙</h1>
   <p align="center"> Estudante do Instituto Federal da Bahia no Curso Tecnico de Informática!</a>
-  <p align="center"><i> 💙Alone Never!✨</i></h2>
 </div>
 
 <div align="center">
