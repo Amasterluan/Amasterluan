@@ -16,16 +16,19 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
+	<td><b>🧑🏽‍💻 Technologies</b></td>
       <td><b>⭐ Stars</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/Amasterluan/BibliotecaAngular"><b>Biblioteca Virtual (Angular)</b></a></td>
+	    <td>Angular<br>TypeScript<br></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Amasterluan/BibliotecaAngular?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/Amasterluan/Biblioteca-Java"><b>Sistem Biblioteca (Java)</b></a></td>
+		  <td>Java</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Amasterluan/Biblioteca-Java-Pack?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
