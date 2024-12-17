@@ -10,6 +10,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 # 📂 Projects:
+
+<p>Projects that are currently being developed by me:</p>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -19,8 +21,8 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Amasterluan/Biblioteca-Virtual"><b>Biblioteca Virtual</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Amasterluan/Biblioteca-Virtual?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Amasterluan/BibliotecaAngular"><b>Biblioteca Virtual</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Amasterluan/BibliotecaAngular?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/Amasterluan/Biblioteca-Java"><b>Biblioteca with Java</b></a></td>
