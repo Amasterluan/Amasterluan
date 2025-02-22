@@ -1,6 +1,7 @@
 <div>
   <h1 align="center">Hi, i'm <a href="https://www.linkedin.com/in/amasterluan/"><i>Luan Moreira</i></a>! 💙</h1>
-  <p align="center"> Estudante do Instituto Federal da Bahia no Curso Tecnico de Informática!</a>
+  <p align="center">Currently a Computer Science student at UNIFACS and graduated from the Federal Institute of Bahia in Computer Technician!</a>
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 </div>
 
 ## 🌐 Socials:
