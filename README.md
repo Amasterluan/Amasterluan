@@ -11,8 +11,8 @@
 <br>
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="night coding" min-width="500px" max-width="500px" width="500px" align="right">
 
-* Estudante de Ciência da Computação pela UNIFACS;
-* Técnico em Informática pelo Instituto Federal da Bahia;
+* Estudante de Engenharia de Software pela Estácio;
+* Formado em Técnico em Informática pelo Instituto Federal da Bahia;
 * Amante de Games, Animes, Coding e my wife :3
 </div>
 
